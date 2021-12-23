@@ -24,7 +24,7 @@ h1{
     
 }
 
-a.btn{
+.banner a.btn{
     border-radius: 20px;
     background: rgb(117, 133, 102);
     padding: 10px;
@@ -34,6 +34,43 @@ a.btn{
     
 }
 
-a.btn:hover{
+.banner a.btn:hover{
     background: rgb(135, 196, 75);
+}
+
+.b{
+    color: rgb(135, 196, 75);
+}
+
+.us a.btn{
+    border-radius: 20px;
+    background: rgb(117, 133, 102);
+    padding: 12px;
+    border: chartreuse;
+    margin-left: 50px;
+
+    
+}
+
+.us a.btn:hover{
+    background: rgb(135, 196, 75);
+}
+
+.card-text, .card-title{
+
+    color:  rgb(135, 196, 75);
+    font-size: 30px;
+    text-align: center;
+}
+
+.c{
+    color: rgb(135, 196, 75);
+}
+
+.lojafruta .btn{
+    border-radius: 20px;
+    padding-left: 18px;
+    margin-left: 50px;
+
+
 }
