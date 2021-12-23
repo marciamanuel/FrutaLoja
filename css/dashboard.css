@@ -1,0 +1,39 @@
+*{
+    box-sizing: border-box;
+}
+
+nav{
+    background: rgb(128, 216, 162);
+    
+   
+}
+
+
+.banner{
+    background-image: url("../img/fahd-khan-mrFdBdTlElk-unsplash.jpg");
+
+    padding: 300px;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+h1{
+    text-align: center;
+    color: #fff;
+  
+    
+}
+
+a.btn{
+    border-radius: 20px;
+    background: rgb(117, 133, 102);
+    padding: 10px;
+    border: chartreuse;
+    margin-left: 250px;
+
+    
+}
+
+a.btn:hover{
+    background: rgb(135, 196, 75);
+}
